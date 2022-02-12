@@ -1,0 +1,12 @@
+n=int(input('enter the value of n'))
+m=int(input('enter the value of m'))
+if(m>n):
+  print (' m is big')
+  Print ('not equal')
+elif(m<n)
+  Print(' n Is big')
+  Print('not equal')
+  
+Else:
+ Print("both are equal)
+ 
